@@ -1,3 +1,6 @@
 [submodule "inversion-of-Control"]
 	path = inversion-of-Control
 	url = https://github.com/ayoubAnbara/inversion-of-Control
+[submodule "jpa-homework"]
+	path = jpa-homework
+	url = https://github.com/ayoubAnbara/jpa-homework
